@@ -42,3 +42,5 @@ Một website bán giày được xây dựng hoàn chỉnh với Spring Boot v�
 ### 3. Chạy project
 - Mở bằng IntelliJ
 - Chạy FashionSpringBootApplication.java (hàm main)
+## 📽️ Video Demo
+https://www.youtube.com/watch?v=bXukuTRsawk
